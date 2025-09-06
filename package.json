@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "mongodb": "^6.19.0",
     "mongoose": "^8.18.0"
